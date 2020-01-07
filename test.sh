@@ -7,4 +7,4 @@ touch cur.py
 rm yest.py
 git add * 
 git commit -m 'commit'
-git push master
+git push
